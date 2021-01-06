@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "picture-of-2020": {
+      "hosting": {
+        "pictureof2020": [
+          "picture-of-2020"
+        ]
+      }
+    }
+  }
+}
