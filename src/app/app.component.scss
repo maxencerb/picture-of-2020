@@ -1,0 +1,23 @@
+h1 {
+  padding: 10px;
+  align-items: center;
+  display: flex;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  span {
+    font-size: small;
+    margin-left: 1rem;
+  }
+
+  img {
+    height: 40px;
+    margin-right: 1rem;
+  }
+}
+
+.title {
+  width: 100%;
+  background-color: black;
+  color: white;
+}
